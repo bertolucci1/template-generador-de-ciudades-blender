@@ -1,0 +1,7 @@
+Este template consiste en un archivo .blend el cual se debe ejecutar con el complemento "TreeGen" (link adjunto)
+utiliza el servicio Open Street Maps dentro de blender formando el template, con trabajo de @prochitecture y Pavel Oliva es posible que ésta herramienta
+permita generar ciudades desde mapas reales para quién necesite realizar renders para arquitectura y posean un hardware de entrada ej: 2 nucleos, 4gb ram.
+
+A medida que compile nuevas versiones estarán disponibles en éste repositorio.
+
+consultas eliasezecos@gmail.com asunto: citygen v1.0
